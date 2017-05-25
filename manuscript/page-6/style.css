@@ -22,7 +22,7 @@ ul {
 ul li {
   list-style: outside none none;
   margin: 0;
-  height: 6vw;
+  height: 5vw;
   margin: 2px auto;
   background: rgba(241, 241, 241, 0.5);
   -webkit-border-radius: 1vw;
@@ -43,7 +43,7 @@ ul li a {
   vertical-align: center;
   clear: both;
   text-decoration: none;
-    height: 6vw;
+    height: 5vw;
   padding: 0 0 0 3vw;
   display: -webkit-box;
   display: flex !important;
@@ -66,5 +66,5 @@ li span {
   float: right;
   font-size: 80%;
   width: 10%;
-  height: 6vw;
+  height: 5vw;
 }
